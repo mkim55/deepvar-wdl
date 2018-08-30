@@ -1,1 +1,1 @@
-# deepvar-wdl
+WDL file for running Google's DeepVariant.

@@ -1,0 +1,9 @@
+{
+	"deep_variant.READS_BAM":"${this.BAM_FILE}",
+	"deep_variant.CHECKPOINT":"${workspace.CHECKPOINT}",
+	"deep_variant.REF_GENOME_FASTA":"${workspace.REF_GENOME_FASTA}",
+	"deep_variant.DISK_SPACE_GB":50,
+	"deep_variant.READS_BAI":"${this.BAI_FILE}",
+	"deep_variant.NUM_THREADS":8,
+	"deep_variant.REF_GENOME_FAI":"${workspace.REF_GENOME_FAI}"
+}
